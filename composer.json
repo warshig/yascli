@@ -1,0 +1,17 @@
+{
+    "name": "warshig/yascli",
+    "description": "Yet another slack cli",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "warshig",
+            "email": "warshig@protonmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "rmccue/requests": "^1.7",
+        "league/climate": "^3.4"
+    }
+}
